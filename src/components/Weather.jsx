@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import './Weather.css';
 import cloud from '../assets/cloud.png';
-import forecast from '../assets/forecast.png';
+import forecast from '../assets/Forecast.png';
 import drizzle from '../assets/drizzle.png';
 import snow from '../assets/snowflake.png';
 import clear from '../assets/sun.png';
